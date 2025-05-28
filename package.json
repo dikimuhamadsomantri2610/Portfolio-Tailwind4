@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-tailwind4",
+  "version": "1.0.0",
+  "description": "Disini saya belajar membuat sebuah website portfolio sederhana dengan maksud mencoba , belajar dari pak sandhika (WPU) youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dikimuhamadsomantri2610/Portfolio-Tailwind4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dikimuhamadsomantri2610/Portfolio-Tailwind4/issues"
+  },
+  "homepage": "https://github.com/dikimuhamadsomantri2610/Portfolio-Tailwind4#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.7",
+    "tailwindcss": "^4.1.7"
+  }
+}
